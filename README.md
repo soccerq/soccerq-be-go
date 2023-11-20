@@ -1,1 +1,1 @@
-# soccerq-be-go
+# SoccerQ BE using Golang
